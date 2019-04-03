@@ -1,0 +1,23 @@
+{
+  "name": "overfrontend",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vchaoxi/overfrontend.git"
+  },
+  "author": "sqrtthree <imsqrtthree@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vchaoxi/overfrontend/issues"
+  },
+  "homepage": "https://github.com/vchaoxi/overfrontend#readme",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.46"
+  }
+}
