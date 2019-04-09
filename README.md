@@ -7,7 +7,7 @@ actionLink: /getting-started
 ---
 
 ### As Easy as 1, 2, 3
-
+i
 ```bash
 # install
 npm install
