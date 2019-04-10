@@ -27,4 +27,4 @@ VuePress requires Node.js >= 8.
 
 1. 创建文件 `filename.md`
 2. 在 `.vuepress/config.js` 文件的 `sidebar` 后面将新建的文件名添加进去。
-3. 执行 `npm start` 开启预览模式。
+3. 执行 `npm run dev` 开启预览模式。
