@@ -1,5 +1,5 @@
 module.exports = {
   themeConfig: {
-    sidebar: ['/', '/getting-started', '/bfc', '/liuhao'],
+    sidebar: ['/', '/getting-started', '/shared/margin/', '/shared/bfc/'],
   },
 }
